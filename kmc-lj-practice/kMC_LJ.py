@@ -16,7 +16,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Use a relative output directory so the project is portable on GitHub
-OUTPUT_DIR = r"C:\Users\15877\Desktop\UCAS\20260317kMC"
+OUTPUT_DIR = r"OUTPUTDIR"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
